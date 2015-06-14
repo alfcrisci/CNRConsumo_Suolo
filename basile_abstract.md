@@ -1,4 +1,12 @@
-## Angelo Basile
+# CONSUMO DI SUOLO: STRUMENTI PER UN DIALOGO
+## Angelo Basile (ISAFOM CNR )
+
+### 
+
+### Abstract
+
+
+
 
 Il suolo svolge un ruolo fondamentale in moltissime attività umane comprese quelle legate alla food security per la quale, in particolare in Italia, il problema dell’espansione urbana non controllata rimane non risolto. 
 Nel dibattito sul suolo e il suo consumo per urbanizzazione un grande assente è sovente – e paradossalmente – il suolo stesso e i servizi ecosistemici che fornisce.
