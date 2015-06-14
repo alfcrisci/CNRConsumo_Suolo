@@ -1,3 +1,9 @@
+# CONSUMO DI SUOLO: STRUMENTI PER UN DIALOGO
+## Salvadori  (ISAFOM CNR )
+
+### 
+
+### Abstract
 
 
 Parlare del consumo di suolo è parlare di un fenomeno che ha accompagnato per secoli la storia dell’umanità. Del resto, al di là di qualche mente illuminata in epoche precedenti, solo tra la fine del secolo scorso e quello attuale l’umanità ha preso coscienza dei propri doveri nei confronti dell’ambiente e della sostenibilità. Nelle epoche passate umanizzare lo spazio significava reificarlo: dargli una forma artificiale,  sfruttarne le risorse, organizzarlo in vaste colture. La "territorializzazione" era anzitutto associata alla costruzione di edifici: strutture e grandi città. I secoli passati, fino a ieri, vedevano nella città grande, popolosissima, ordinata e razionalizzata in base ad una narrazione ideale del progresso, un fondamentale obiettivo e destino dell’umanità. Era un’idea di proiezione verso il futuro sviluppata intorno all’ideale tecnologico, nella convinzione che appunto la tecnologia, il libero mercato, una globalizzazione di produzioni e traffici che non è cosa di oggi, ma risale a molto tempo fa, potessero risolvere i problemi materiali dell’umanità, strappandola a schiavitù millenarie. Era il sogno di regolare definitivamente i rapporti fra le persone e lo spazio naturale secondo una volontà e una progettualità dettate dal "progresso".
