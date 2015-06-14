@@ -6,7 +6,7 @@
 Fare un evento sul consumo di suolo all'EXPO di Milano sembra quasi una contraddizione. Proprio per questo potrebbe invece essere il luogo metaforicamente adatto in cui affrontare in modo aperto e approfondito questo tema così complesso. Lo fermo nella tavola rotonda organizzata il 18 luglio.
 E adesso vi spieghiamo perché.
 
-Da dove siamo partiti....
+### Da dove siamo partiti....
 
 Tra le molte attività che IBIMET Istituto di Biometeorologia e ISAFOM Istituto per i Sistemi agricoli e Forestali del Mediterraneo (organizzatori dell'evento) hanno in essere, lo studio degli usi del suolo riveste particolare importanza metodologica e sperimentale.
 Oggi ancor di più in prossimità della possibile emanazione di una legge sul consumo del suolo. L’interesse per la struttura di questa legge, le potenziali implicazioni sugli usi, e in particolare la ricaduta che questa legge avrà in termini di ricerca e conoscenza non potevano non attirare l’attenzione del Consiglio Nazionale delle Ricerche. Attenzione che ha fatto nascere la necessità di un’ampia discussione con tutti i portatori di interesse così da meglio organizzare, e focalizzare, le capacità di indagine su questo fenomeno che coinvolge settori molti ampi di studio e di intervento infrastrutturale.
@@ -25,11 +25,11 @@ Per noi l’evento organizzato ad Expo oltre ad essere un’occasione per mostra
 Noi speriamo che diventi un’occasione in cui, insieme agli esperti e agli attori coinvolti, si possano meglio comprendere le dinamiche tecniche che la nuova legge ci imporrà di gestire.
 Vorremmo che la tavola rotonda fosse uno spazio per ascoltare e supportare le diverse istanze e dinamiche sociali che scaturiranno dalla legge e che i portatori di interesse sono vivamente invitati a venire ad esporre durante l’evento.
 
-I coordinatori
+### I coordinatori
 
-Teodoro Georgiadis (CNR-IBIMET)
+##### Teodoro Georgiadis (CNR-IBIMET)
 
-Angelo Basile (CNR-ISAFOM)
+##### Angelo Basile (CNR-ISAFOM)
 
 Segreteria organizzativa dell'evento: letiziacremonini@libero.it
 
