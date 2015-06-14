@@ -1,5 +1,5 @@
 # CONSUMO DI SUOLO: STRUMENTI PER UN DIALOGO
-## Salvadori  (ISAFOM CNR )
+## Franco Salvadori  (Professore ordinario di Geografia Università Tor Vergata Roma)
 
 ### 
 
