@@ -1,0 +1,24 @@
+# CONSUMO DI SUOLO: STRUMENTI PER UN DIALOGO
+## Donatella Diolaiti (Universita' degli Studi di Ferrara)
+
+### La qualità della vita urbana: prove tecniche di teorie e tecniche di rinascimento della città
+
+Abstract
+
+Esistono diverse definizione di“consumo di suolo”
+La più comune o meglio, la più comunemente percepita dalle comunità, è quella strettamente legata all’espansione della città o in genere del tessuto antropizzato.
+E’ di questi giorni la pubblicazione dell’Edizione 2015 de “ Il consumo di suolo in Italia” a cura di ISPRA-Istituto Superiore per la Protezione e la Ricerca Ambientale: da diverse analisi presentate pare evidente che il consumo di suolo si è arrestato e, in certe aree del Paese si è addirittura ridotto.
+Di contro la popolazione urbana continua ad aumentare in maniera direttamente proporzionale alla dispersione abitativa
+Un problema di uso del territorio urbanizzato, non un problema di aumento della stessa superficie.
+In effetti, se togliamo la realizzazione del sito area EXPO 2015, non esiste nel nostro Paese altro esempio di consumo di suolo agricolo a questa scala, come ben dimostrato a pag.3 del report ISPRA 2015 richiamato sopra.
+Secondo alcuni dati statistici ( fonte Eurostat) consumiamo o abbiamo consumato meno suolo di altre Nazioni Europee stabilizzando il nostro indice di consumo pro-capite attorno al 7/9%.
+Gli open data confermano l’arresto del consumo di suolo facendo riferimento a diversi e motivati fatti: la crisi inarrestabile, il calo demografico, l’arresto della crescita delle città.
+Nel mondo delle regole politiche tre sono i fatti che occorre richiamare qui: la proposta di Legge dal titolo “Contenimento del consumo del suolo e riuso del suolo edificato” ancora oggetto di discussione presso le competenti Commissioni, la pubblicazione della Legge Regionale della Regione Toscana dove si attua il principio del consumo zero e, più recentemente, la modifica della Legge Regionale della Regione Veneto dove, si permette alla comunità di avviare procedure per la riclassificazione dei terreni edificabili chiedendo una sorta di declassamento rispetto alle previsione urbanistiche di piano.
+Le leggi urbanistiche nazionali o regionali sembra che non siano in grado di  percepire il problema se non in pochi casi virtuosi: i principi regolatori e le norme che da lì si fondano non hanno risposto e non rispondono più al benessere delle comunità.
+Quindi il problema non è il “consumo di suolo”: ne abbiamo urbanizzato tanto e non sappiamo più cosa farcene perché il mercato non richiede nuove espansioni e nuovi insediamenti urbani.
+Occorre ripensare le regole comuni per una crescita sostenibile: l’attuale definizione della green economy si riferisce esclusivamente al mondo della produzione edilizia e non alla qualità eco-sostenibile del governo del territorio.
+Le teorie e tecniche urbanistiche del secolo scorso sono alla base di questo dissesto territoriale urbano: il concetto di zooning ancora applicato non è più contemporaneo alla richiesta di benessere dei cittadini, delle comunità e del benessere economico delle imprese e dell’ambiente.
+Il concetto olistico di eco-sostenibilità urbana, alla base del Movimento del New Urbanism, movimento che per primo ha cercato di dare definizioni condivise circa le ragioni dello spreco di territorio urbano e sulla sub-urbanizzazioni delle città, fonda i suoi principi sul concetto dimensionale di Quartiere, luogo dimenticato dall’Urbanistica del secolo scorso dove per altro i cittadini hanno ancora l’abitudine di risiedere.
+Il concetto organico della città composta di quartieri, di borghi e di villaggi, con un’adeguata densità abitativa, che presenti tutte le necessità funzionali al vivere quotidiano, che implementa l’uso di mezzi alternativi al trasporto privato come l’automobile, ricco di negozi e di piazze.
+I principi del NU sono tutti contenuti nelle attività del Green Building Council che ha sviluppato con l’aiuto di diverse comunità scientifiche e sociali, diversi Protocolli di Certificazione LEED; quello più interessante e che si occupa principalmente di “consumo di suolo” è il LEED-ND- LEED for Neighborhood Development, Protocollo che raccoglie e determina le buone pratiche per la realizzazione di un quartiere urbano in modo conforme a requisiti e che ne valutano lo stato di qualità attraverso la definizione di soglie di “benessere urbano”
+In conclusione le teorie e le tecniche per far rinascere le nostre città ci sono, non c’è ancora una via italiana a questo processo: sulle motivazioni di questo ritardi abbiamo detto, scritto, elencato e ragionato, il tempo a noi contemporaneo ci suggerisce che è ora di agire e di sostituire un modello energivoro e fallimentare a uno virtuoso che metta al centro delle nostre azioni la qualità della vita delle persone e delle nostre città.
