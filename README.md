@@ -33,6 +33,10 @@ Vorremmo che la tavola rotonda fosse uno spazio per ascoltare e supportare le di
 
 Segreteria organizzativa dell'evento: letiziacremonini@libero.it
 
-Seguici su Twitter: @CNRconsumosuolo
+Seguici su Twitter: 
 
-Hashtag: #consumodisuolo #consumosuolo
+#### @CNRconsumosuolo
+
+Hashtag: 
+
+#### #consumodisuolo #consumosuolo
