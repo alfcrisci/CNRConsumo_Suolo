@@ -1,4 +1,4 @@
-## PROGRAMMA:
+## PROGRAMMA
 
  * Introduzione alla proposta di legge sul consumo di suolo - i contenuti della proposta di legge - Dott. Teodoro Georgiadis.
  * Visione del film descrittivo "Il consumo di suolo".
@@ -15,7 +15,7 @@
 Enti, Associazioni di categoria e portatori di interesse offrono il loro punto di vista rispetto alla proposta di legge.
 
 
-## ESERCITAZIONE:
+## ESERCITAZIONE
 
 Presentazione e utilizzo piattaforma SOILCONSWEB, strumento webgis che contiene numerosi strati informativi spaziali di alta qualità relativi al suolo e al paesaggio. Tale strumento è reso accessibile attraverso il web mediante un normale collegamento ad internet. Accedendo al sistema si ottengono consulenze che permettono agli utenti, utilizzando calibrati strumenti di analisi (tools), di
 produrre documenti, relazioni e mappe su importanti tematiche relative all'agricoltura e all'ambiente.
@@ -25,6 +25,7 @@ produrre documenti, relazioni e mappe su importanti tematiche relative all'agric
 4 ore - 18 luglio Milano dalle ore 14 alle 18
 
 ## OBIETTIVI
+
 Tavola rotonda incentrata sulla proposta di legge sul consumo di suolo per la analisi/diagnosi degli elementi che caratterizzano l'interazione con tutti i diversi aspetti del problema: dalla definizione stessa di suolo, all'analisi storica, alle interazioni con il paesaggio e l'economia, alla sostenibilità dell'edilizia, all'approntamento di opere infrastrutturali ed il loro impatto con il territorio.
 Ulteriore obiettivo è fornire ai tecnici professionisti gli elementi conoscitivi di un tool avanzato di progettazione territoriale.
 CURRICULA VITAE RELATORI
