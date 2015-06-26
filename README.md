@@ -43,7 +43,7 @@ giallac@tiscali.it
 
 #####  Giuliano Langella
 
-giuliano.langella@gmail.com
+giuliano.langella@isafom.cnr.it ,giuliano.langella@gmail.com
 
 Seguici su Twitter: 
 
