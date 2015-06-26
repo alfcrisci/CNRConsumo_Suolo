@@ -31,7 +31,19 @@ Vorremmo che la tavola rotonda fosse uno spazio per ascoltare e supportare le di
 
 ##### Angelo Basile (CNR-ISAFOM)
 
-Segreteria organizzativa dell'evento: letiziacremonini@libero.it
+Segreteria organizzativa dell'evento:
+
+##### Letizia Cremonini 
+
+letiziacremonini@libero.it
+
+##### Gianluca Casagrande 
+
+giallac@tiscali.it  
+
+#####  Giuliano Langella
+
+giuliano.langella@gmail.com
 
 Seguici su Twitter: 
 
