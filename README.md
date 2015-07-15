@@ -19,6 +19,56 @@ E’ fondamentale promuovere un approccio multidisciplinare. Affrontiamo la ques
 
 E’ fondamentale il confronto. Confrontarsi innanzitutto su questa proposta di legge che nei fatti inciderà sull’utilizzo del suolo attraverso un insieme di articoli che ne dettaglieranno le modalità, e che inevitabilmente apriranno discussioni in merito ad una economia del suolo, alle trasformazioni storiche, alle relazioni sociali sulle quali la legge opererà.
 
+### Contenuti 
+Sono disponibili le relazioni sia dei:
+
+#### Relatori
+
+[Angelo Basile - Consumo di suolo e perdita di funzioni: come si valuta e con quali strumenti?] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_BASILE.pdf)
+
+[Paolo Pileri - Le dinamiche strutturali del consumo di suolo e le nostre responsabilità.] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_PILERI.pdf)
+
+[Franco Salvatori - Le ragioni storiche del consumo - analisi dei perché della differenziazione del consumo di suolo in Italia] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_SALVATORI.pdf)
+
+[Donatella Diolaiti - La qualità della vita urbana: prove tecniche di teorie e tecniche di rinascimento della città.] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_DIOLAITI.pdf)
+
+[Samuele Segoni - Stop al Consumo di Suolo: 9 proposte. ] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_SEGONI.pdf)
+
+
+#### Autori Invitati 
+
+[Marco Morabito - Aspetti climatici urbani del Consumo di Suolo ] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_CRISCI_MORABITO.pdf)
+
+[Michele Munafò - Porre un freno al consumo di suolo
+ ] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_MUNAFO.pdf)
+
+[Stefano Sabatini e Alessio Biancalana - Strumenti di dialogo su temi ambientali e non: il grande potenziale dei dati geografici liberi e partecipativi di OpenstreetMap.] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT-OPENSTREETMAP.pdf)
+
+[Daniele Vergari -Consumo del suolo e agricoltura: appunti per una nuova prospettiva] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_VERGARI.pdf)
+
+[Letizia Cremonini -  Paesaggio ed economia: il senso del luogo e l'analisi dei costi nei processi progettuali] (http://alfcrisci.github.io/CNRConsumo_Suolo/docsblog/ABSTRACT_CREMONINI.pdf)
+
+
+#### Dati
+
+E' stata organizzata un estrazione dei dati ispra a livello comunali usando una delimitazione
+proposta dalla comunità di mappatori libera italiana disponibile presso il sito:
+
+[Estratti italiani OpenStreetMap per dati liberi urbani] (http://osm-toolserver-italia.wmflabs.org/estratti/it/). 
+
+Grazie alla disponibilità OpenData dei dati di dettaglio di consumo suolo in italia sono stati forniti
+
+[Dati ISPRA Consumo di suolo a livello comunale Anno 2012  Proiezione Geografica WGS84. ] (http://149.139.8.55/data/comuni_ispra_suolo/).
+
+con  il codice per la riproduvibilità estrazione
+
+[Codice R di per la generazione delle Mappe. ] (https://gist.github.com/alfcrisci/10c61ffc1892109eff46).
+
+E' stato abilitato in collaborazione con DISIT Università di Firenze un canale di twitter Vigilance
+
+[Valentina Grasso - Twitter Vigilance Canale "Consumo di suolo" ] (http://www.disit.org/tv/index.php?p=chart_singlechannel&canale=ConsumoSuolo).
+
+
 ### In sintesi ...
 
 Per noi l’evento organizzato ad Expo oltre ad essere un’occasione per mostrare alcune metodologie sviluppate da ISAFOM per la gestione del territorio e del suolo, vorremmo che fosse un incontro aperto a quanti hanno a cuore questo tema.
@@ -43,3 +93,12 @@ giallac@tiscali.it
 
 #####  Giuliano Langella
 
+giuliano.langella@isafom.cnr.it ,giuliano.langella@gmail.com
+
+Seguici su Twitter: 
+
+#### @CNRconsumosuolo
+
+Hashtag: 
+
+#### #consumodisuolo #consumosuolo
